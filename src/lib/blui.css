@@ -1,0 +1,18 @@
+
+:root {
+    --main-bg-color: #545454;
+    --main-bg-color-hover: #797979;
+    --main-second-color-hover: #656565;
+    --main-font-color: #D9D9D9;
+    --inner: #222222;
+
+    --button-active: #4772B3;
+    --panel-color: #3D3D3D;
+  }
+
+
+
+  ::selection {
+    background: #4772B3; /* WebKit/Blink Browsers */
+    height: 100%;
+  }
